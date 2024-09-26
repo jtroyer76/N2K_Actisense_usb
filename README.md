@@ -1,4 +1,4 @@
-# N2K_Actisense_usb
+# N2k Actisense usb
 
 This is currently the n2k gateway on my sailboat Nootka.  The cost is about $25 instead of ~$200 for Actisense NGT-1
 
